@@ -1,0 +1,7 @@
+alias r1="sudo ip netns exec r1"
+alias r2="sudo ip netns exec r2"
+alias r3="sudo ip netns exec r3"
+alias h1="sudo ip netns exec h1"
+alias h2="sudo ip netns exec h2"
+alias h3="sudo ip netns exec h3"
+alias h4="sudo ip netns exec h4"
